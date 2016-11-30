@@ -1,0 +1,42 @@
+
+div {
+  border: solid gold;
+  font-size: 15px;
+  color: teal;
+  float: left;
+  display: block;
+  margin: 20px;
+}
+
+h3:hover {
+  cursor: not-allowed;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.title {
+  text-align: center;
+  border: dotted orange;
+}
+
+.author {
+  font-style: italic;
+  color: green;
+}
+
+p {
+font: Arial;
+color: gray;
+}
+
+span {
+  font-weight: bold;
+  color: red;
+}
+
+footer {
+font-style: italic;
+font-size: 12px;
+}
